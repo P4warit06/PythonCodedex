@@ -3,6 +3,8 @@
 # Create a detention.py program that does this using code.
 
 # (This is where we begin to see the true power of computing. What takes humans hours can take a computer microseconds. 🤯)
+
+def detention():
     for i in range(100):
         print("I will not use Snapchat in class.")
 detention()
