@@ -26,7 +26,3 @@ def build_snowman(base, middle , top , temperature):
         snowman = snowman[:-temperature]
     
     return snowman
-snowman(OO
-oo
-o
--1)
